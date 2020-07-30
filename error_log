@@ -1,0 +1,56 @@
+[28-Jul-2020 13:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:504
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 504
+[28-Jul-2020 13:44:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:512
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 512
+[28-Jul-2020 13:44:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:512
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 512
+[28-Jul-2020 13:45:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:512
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 512
+[28-Jul-2020 13:47:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:513
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 513
+[28-Jul-2020 13:48:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:513
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 513
+[28-Jul-2020 13:48:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:513
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 513
+[28-Jul-2020 13:49:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:513
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 513
+[28-Jul-2020 13:58:54 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:509
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 509
+[28-Jul-2020 13:58:54 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:509
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 509
+[28-Jul-2020 13:58:54 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:509
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 509
+[28-Jul-2020 13:58:54 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:509
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 509
+[28-Jul-2020 13:58:54 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:509
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 509
+[28-Jul-2020 13:58:59 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php:509
+Stack trace:
+#0 {main}
+  thrown in /home/vrgfurniturecom/public_html/virtualhomephotography.com/index.php on line 509
